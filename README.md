@@ -146,19 +146,33 @@ References
 
 ## References
 [1]. B. Freisieben and P. Merz, New Genetic Local Search Operator for Travelling salesman Problem, Conference on Parallel Problem Solving From nature, app. 890-899, 1996.
+
 [2]. P. van Laarhoven and E. H. L. Aarts, Simulated Annealing: Theory and Applications, Kluwer Academic, 1987,
+
 [3]. M. Dorigo and L. M. Gambradella, Ant Colony System: A Cooperative Learning Approach to the Travelling Salesman Problem, JEEE Transaction on Evolutionary Computation, Vol. l, pp. 53-66, 1997.
+
 [4]. D.E. Goldberg, Genetic Algorithm in Search, Optimization and Machine Learning. Addison-Wesley, 1989.
+
 [5]. Naef Taher Al Rahedi and Jalal Atoum, Solving TSP problem using New Operator in Genetic Algorithms, American Journal of Applied Sciences 6(8):1586-1590, 2009.
+
 [6] Eugene L. Lawler, E. David Wood. Branch-and-bound methods: a survey. Oper Res, 14 (4), pp. 699-719, 1996.
+
  [7] Günther R Raidl. A unified view on hybrid metaheuristics. In: Hybrid metaheuristics. Berlin (Heidelberg): Springer; 2006. p. 1–12.
+ 
  [8] Dowsland Kathryn A, Thompson Jonathan M.  Simulated annealing. In: Handbook of natural computing. Berlin (Heidelberg): Springer; 2012. p. 1623–55.
+ 
  [9] Fred Glover, Manuel Laguna. Tabu search., Springer, New York (2013)
+ 
  [10] Thomas Bäck, Hans-Paul Schwefel. An overview of evolutionary algorithms for parameter optimization. Evol Comput, 1 (1), pp. 1-23, 1993. 
+ 
 [11] G. Caporossi, I. Gutman, and P. Hansen. Variable neighborhood search for extremal graphs: IV: Chemical trees with extremal connectivity index.  Journal of Chemical Information and Computer Sciences, Volume 23: 469-477, 1999.
+
  [12] Pierre Hansen, Nenad Mladenović. Variable neighborhood search. 2005.
+ 
 [13] W. Guohui. Variable Step Size LMS Algorithm Optimized by Using Genetic Algorithm. 2012
+
 [14] H. Dakuo, W. Fuli and Z. Chunmei Establishment of Parameters of Genetic Algorithm Based on Uniform Design. 2002
+
 [15] L. Kegang,Z. Fuxi,Z. Biying andS. Fanchen, Dynamic Parameters Optimization of Genetic Algorithm, 2015
 
 
