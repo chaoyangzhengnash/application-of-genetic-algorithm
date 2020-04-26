@@ -1,4 +1,6 @@
 # Application of Genetic Algorithm on a practical case of BIXI Montreal
+This is a group project made by Chaoyang zheng, Hoa Nguyen, Xinyue Tan and Zhenghao Wang for master course:Algorithms for Optimization and Big Data Analysis in HEC MONTREAL.
+
 ## 1.	Introduction 
 Bixi bike Montreal is a public sharing system that allows citizens to rent bikes on hourly, daily or monthly basis at a small fee. Bixi Montreal was created in 2014 and by 2018, it owns 552 docking stations and approximately 7,000 vehicles. The majority of the Bixi’s docking stations locates in the downtown area, the Plateau-Mont-Royal area, and near universities. The number of bikes at each station depends on the demand for biking service in the neighborhood where that station locates. When a customer rent a bike from a docking station, he removes a bike from the station, goes on his trip and returns the bike to any of the stations he finds in 30 minutes. Because a bike can be returned to any of the docking station, there often cases that some of the docking stations are empty after some time while the others are full. Thus, Bixi needs redistribute the bikes each day using large trucks. 
 
