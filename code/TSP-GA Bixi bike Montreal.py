@@ -3,10 +3,10 @@
 #
 # Purpose: 
 #
-# Written by: Hoa Nguyen (11243513) ​
-#             Xinyue Tan (11254865)​
-#             Zhenghao Wang (11252870)​
-#             Chaoyang zheng (11249259)​
+# Written by: Hoa Nguyen  ​
+#             Xinyue Tan ​
+#             Zhenghao Wang ​
+#             Chaoyang zheng ​
 # 
 # Updated: 1 April 2019
 #        
